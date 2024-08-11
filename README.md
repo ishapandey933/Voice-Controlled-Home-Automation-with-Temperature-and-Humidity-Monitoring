@@ -36,10 +36,10 @@ Monitor the temperature and humidity data in the Blynk app.
 Start the Python script to initiate the voice assistant.
 Use commands like "Hello," "Temperature," "Humidity," "Open," etc., to interact with the system.
 # Voice Commands Supported
-"Hello"
-"Open [Directory]"
-"Temperature"
+"Hello" \n
+"Open [Directory]"\n
+"Temperature"\n
 "Humidity"
 "Bye"
-License
+# License
 This project is open-source under the MIT License.
